@@ -2,7 +2,7 @@
 
 Cliquez sur le bouton ci-dessous pour lancer l'environnement Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VOTRE-NOM-UTILISATEUR/analyse-textuelle-python/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hugosaintmantlamy/analyse_donnees_textuelles/HEAD)
 
 ## Présentation du séminaire
 Ce séminaire de deuxième cycle propose une introduction à l'analyse de données textuelles avec Python, spécialement conçue pour les étudiants en lettres.
