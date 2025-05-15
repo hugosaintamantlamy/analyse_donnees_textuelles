@@ -1,0 +1,23 @@
+name: analyse-textuelle
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - nltk
+  - spacy
+  - gensim
+  - scikit-learn
+  - networkx
+  - wordcloud
+  - textblob
+  - pip:
+    - pyLDAvis
+    - textstat
+    - vaderSentiment
