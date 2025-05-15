@@ -1,0 +1,15 @@
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+spacy>=3.5.0
+gensim
+scikit-learn
+networkx
+wordcloud
+textblob
+pyLDAvis
+textstat
+vaderSentiment
