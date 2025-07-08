@@ -3,6 +3,7 @@
 # Installation des modèles spaCy
 python -m spacy download fr_core_news_sm
 python -m spacy download en_core_web_sm
+python -m spacy download fr_core_news_trf
 
 # Téléchargement des ressources NLTK
 python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet'); nltk.download('averaged_perceptron_tagger')"
