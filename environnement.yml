@@ -11,13 +11,11 @@ dependencies:
   - matplotlib
   - seaborn
   - nltk
-  - spacy
-  - gensim
   - scikit-learn
   - networkx
-  - wordcloud
   - textblob
   - pip:
-    - pyLDAvis
+    - spacy>=3.5.0
+    - gensim
     - textstat
     - vaderSentiment
