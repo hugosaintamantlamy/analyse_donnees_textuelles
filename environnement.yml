@@ -1,7 +1,6 @@
 name: analyse-textuelle
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.10
   - pip
@@ -9,13 +8,5 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - seaborn
-  - nltk
-  - scikit-learn
-  - networkx
-  - textblob
   - pip:
-    - spacy>=3.5.0
-    - gensim
-    - textstat
-    - vaderSentiment
+    - textblob
