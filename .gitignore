@@ -1,0 +1,20 @@
+# Dossier de données volumineux
+donnees/
+données/
+
+# Fichiers de données
+*.txt
+*.csv
+*.xlsx
+*.pdf
+*.docx
+
+# Fichiers système
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Fichiers temporaires
+*.tmp
+*.log
